@@ -14,12 +14,6 @@ A aplicação angular (front-end) poderá ser acessada através do endpoint `htt
 ## Sobre
 O projeto **Criando uma aplicação de transferências bancárias com .NET** simula um banco digital, contendo a área do cliente e administrativa, permitindo depósitos e transferências entre contas do mesmo banco..
 
-## Dê uma estrela! :star:
-Se você gostou do projeto ou se ele te ajudou, por favor dê uma estrela ;)
-
-## Atenção
-Este não é um projeto para ser utilizado em produção. Ele é apenas uma demonstração do uso das tecnologias e da arquitetura em que foi construído. **Existem ajustes e melhorias a serem feitos**.
-
 ## Dados para acesso da agência
 
 **CNPJ:** 03569262000160
