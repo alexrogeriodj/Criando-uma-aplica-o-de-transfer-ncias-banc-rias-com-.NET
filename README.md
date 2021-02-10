@@ -2,7 +2,7 @@
   <img alt="trivelum logo" src="logo.png" /> 
 </p>
 
-[![Build status](https://dev.azure.com/alexrogeriodj-com/alexrogeriodj/_apis/build/status/alexrogeriodj-CI)](https://dev.azure.com/alexrogeriodj-com/alexrogeriodj/_build/latest?definitionId=9)
+
 
 ## Começando
 Para executar a aplicação:
